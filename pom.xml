@@ -6,6 +6,8 @@
     <modules>
         <module>starter</module>
         <module>rest</module>
+        <module>data</module>
+        <module>core</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
